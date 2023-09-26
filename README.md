@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Mubarak from Bengaluru <br><br>- 🔭 I’m working as Mechanical Engineer<br>- 📚 I'm currently learning Everything that comes my way<br>- ⚡ In my free time I Workout and try to come up with ideas that makes this world a better place</p>
 
 ###
 
