@@ -12,13 +12,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
-<h1 align="center">Now that I have your attention! 😏😎</h1>
+<h1 align="center">Hello😎</h1>
 
 ###
 
@@ -26,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Mubarak from Bengaluru <br><br>- 🔭 I’m working as Mechanical Engineer<br>- 📚 I'm currently learning Everything that comes my way<br>- ⚡ In my free time I Workout and try to come up with ideas that makes this world a better place</p>
+<p align="left">I'm Mubarak from Bengaluru <br><br>- 🔭 I’m working as a Mechanical Engineer<br>- 📚 I'm currently learning Everything that comes my way<br>- ⚡ In my free time I Workout and try to come up with ideas that makes this world a better place</p>
 
 ###
 
@@ -52,16 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats : Well that's a secret🤫</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
